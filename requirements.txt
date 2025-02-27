@@ -6,4 +6,5 @@ joblib
 firebase-admin
 python-dotenv
 gunicorn
+scikit-learn==1.5.2
 
